@@ -22,3 +22,25 @@ A network connects multiple devices to share data.
 
 Unique identifier for a device in a network.
 
+\# Networking Basics
+
+
+
+\## What is a Network?
+
+A network connects multiple devices to share data.
+
+
+
+\## Types
+
+\- LAN
+
+\- WAN
+
+
+
+\## IP Address
+
+Unique identifier for device
+
